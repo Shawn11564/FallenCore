@@ -1,0 +1,8 @@
+name: FallenCore
+version: ${project.version}
+main: dev.mrshawn.fallencore.FallenCore
+api-version: 1.17
+prefix: FallenCore
+authors: [ MrShawn ]
+description: Core plugin for your server
+website: https://mrshawn.dev/
